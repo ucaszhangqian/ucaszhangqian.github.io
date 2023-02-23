@@ -4,7 +4,7 @@
   <title><![CDATA[ucas_zhangqian]]></title>
   <link href="http://ucas_zhangqian/atom.xml" rel="self"/>
   <link href="http://ucas_zhangqian/"/>
-  <updated>2023-02-23T13:18:24+08:00</updated>
+  <updated>2023-02-23T16:40:07+08:00</updated>
   <id>http://ucas_zhangqian/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,26 @@
 
   
   <entry>
-    <title type="html"><![CDATA[index]]></title>
+    <title type="html"><![CDATA[README]]></title>
     <link href="http://ucas_zhangqian/index.html"/>
     <updated>2023-02-23T13:08:06+08:00</updated>
     <id>http://ucas_zhangqian/index.html</id>
     <content type="html"><![CDATA[
+<p>hi,<br />
+I want to introduce the basic function of <code>ucas_zhangqian</code>.<br />
+Currently the site is divided into 5 sections.</p>
+<ul>
+<li>Part one has background information on <code>HPV and cervical squamous cell carcinoma</code>. Including, but not limited to, profiles of HPV, cervical cancer formation, and epidemiological characteristics.</li>
+<li>There is <code>tumor microenvironment</code> information in part two. This part will contain published tumorigenesis mechanisms and the cellular components and characteristics of the tumor microenvironment.</li>
+<li>Part three is related to <code>sequencing techiques</code> and <code>commonly used software tutorials</code>.</li>
+<li>Part four is about the use of single cell sequencing and spatial transcriptome sequencing. We will focus on their <code>analysis ideas</code>.</li>
+<li>Part five contains the <code>latest paper</code> related to the our research in this week.</li>
+</ul>
+<p>In addition, all articles mentioned in this website can be accessed in pdf format by clicking on the hyperlink without manual download.<br />
+Update Time: <strong><code>every Sunday at 10 am</code></strong>.</p>
+<p>For any questions, please contact <code>zhangqian223@mails.ucas.ac.cn</code>.<br />
+Best wishes,<br />
+Qian</p>
 
 ]]></content>
   </entry>
